@@ -127,10 +127,17 @@ Follow these steps to execute the automated tests:
 ---
 
 ## 📁 Reports  
+![Images (3)](https://github.com/user-attachments/assets/1f254cd6-0786-4138-a4b0-9b8bf5b1a304)
+![Images (2)](https://github.com/user-attachments/assets/5dae0d20-fc81-41cc-865e-db4f5323d600)
+![Images (1)](https://github.com/user-attachments/assets/c4b10066-efa7-4ac0-9a5b-637d54086e84)
 
 ---
 
 ## 🎥 Sample Video of Automation Process  
+
+
+https://github.com/user-attachments/assets/3d343c79-450c-4b49-a405-1c5b84906642
+
 
 ---
 
