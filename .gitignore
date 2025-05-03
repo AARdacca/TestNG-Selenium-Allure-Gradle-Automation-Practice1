@@ -1,7 +1,7 @@
 ### Custom Made ###
-.idea
 allure-report
 allure-results	
+.idea
 gradle
 logs
 build

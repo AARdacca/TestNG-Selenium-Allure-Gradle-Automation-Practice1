@@ -133,3 +133,10 @@ Follow these steps to execute the automated tests:
 ## 🎥 Sample Video of Automation Process  
 
 ---
+
+## 📄 Related Guides
+
+- [📊 Allure Report Instructions](README/README_for_Allure.md)
+- [🔐 Gmail API OAuth Playground Guide](README/README_for_OAuth-Playgound.md)
+
+---
